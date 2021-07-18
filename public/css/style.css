@@ -1,5 +1,5 @@
 :root {
-    --main-bg-color: #edf5fe;
+    --main-bg-color: #6c85a1;
     --light-blue: #03a9f4;
     --dark-blue: #028bca;
   }
@@ -16,6 +16,7 @@
   }
 
   .logo {
+    border-radius: 12px;
     position: absolute;
     top: 10px;
     left: 10px;
